@@ -14,3 +14,12 @@ pip install -r requirements.txt
 python crawler.py
 ```
 6. Json data will be stored in raw_data.json.
+
+# tip for install python
+## windows
+https://www.python.org/downloads/windows/
+## ubuntu
+sudo apt-get update
+sudo apt-get install python
+## os x
+brew install python
